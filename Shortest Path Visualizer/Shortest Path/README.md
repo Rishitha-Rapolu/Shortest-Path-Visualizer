@@ -1,4 +1,4 @@
-#Shortest Path Visualizer
+#Shortest Path Visualizer.
 
 
 ####Made using Reactjs,HTML, CSS
